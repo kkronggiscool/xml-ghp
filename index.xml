@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Hi!</title>
+    </head>
+    <body>
+        <h1>Hi!!</h1>
+        <ul>
+            <li>This was created by <a href="https://github.com/kkronggiscool">kkronggiscool</a></li>
+            <li>Feel free to steal/fork this repo for free!</li>
+            <li>Copyright free 👍</li>
+        </ul>
+        <h2>Make this page better by creating an HTML file for me! Thanks..</h2>
+        <ul>
+            <li>Yep, make an HTML file and send it to me!</li>
+        </ul>
+    </body>
+</document>
